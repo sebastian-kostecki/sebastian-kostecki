@@ -4,7 +4,7 @@ Backend developer (Laravel), based in Lublin, Poland.
 
 I work on **[PanelAlpha](https://panelalpha.com)**, a B2B platform that automates WordPress management for hosting companies and agencies: Laravel APIs, hosting, DNS, SSL, e-mail and backup integrations, and WHMCS billing.
 
-I also contribute to **[PanelAlpha Engine](https://github.com/panelalpha/panelalpha-engine)**, an open-source self-hosting platform that AI agents operate over MCP. My work account there is [@skostecki](https://github.com/skostecki).
+I also contribute to **[PanelAlpha Engine](https://github.com/panelalpha/panelalpha-engine)**, an open-source self-hosting platform that AI agents operate over MCP.
 
 **Stack:** PHP · Laravel · PostgreSQL / MySQL · Vue 3 / React · TypeScript · Inertia · Docker · Pest · Playwright
 
