@@ -1,10 +1,10 @@
 # Sebastian Kostecki
 
-Backend developer (Laravel), based in Lublin, Poland.
+Full-stack developer (PHP / Laravel + Vue), based in Lublin, Poland.
 
-I work on **[PanelAlpha](https://panelalpha.com)**, a platform for hosting and managing projects on your own servers, from WordPress to any app from Git: Laravel APIs, integrations with hosting panels, WP Cloud, DNS (PowerDNS, Cloudflare, Bunny DNS), SSL, e-mail and backups, and WHMCS billing.
+I work on **[PanelAlpha](https://panelalpha.com)**, a platform for hosting and managing projects on your own servers, from WordPress to any app from Git: Laravel APIs, integrations with hosting panels, WP Cloud, DNS (PowerDNS, Cloudflare, Bunny DNS), SSL, e-mail and backups, and WHMCS billing. On the frontend I am migrating the platform to Vue 3 and TypeScript.
 
-I also contribute to **[PanelAlpha Engine](https://github.com/panelalpha/panelalpha-engine)**, an open-source self-hosting platform that AI agents operate over MCP, and I worked on the panel of **[PanelAlpha Single Server Edition](https://github.com/panelalpha/panelalpha-single-server)**, an open-source hosting panel for your own VPS built on the Engine.
+I also contribute to **[PanelAlpha Engine](https://github.com/panelalpha/panelalpha-engine)**, an open-source self-hosting platform that AI agents operate over MCP, and I worked on the backend and frontend of **[PanelAlpha Single Server Edition](https://github.com/panelalpha/panelalpha-single-server)**, an open-source hosting panel for your own VPS built on the Engine.
 
 **Stack:** PHP · Laravel · PostgreSQL / MySQL · Vue 3 / React · TypeScript · Inertia · Docker · Pest · Playwright
 
