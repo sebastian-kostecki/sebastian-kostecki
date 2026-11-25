@@ -15,6 +15,7 @@ I also contribute to **[PanelAlpha Engine](https://github.com/panelalpha/panelal
 | **[Domowy Skarbnik](https://github.com/sebastian-kostecki/household-treasurer)** ([live](https://budget.kostecki.dev)) | Yearly household budget: plan vs actual, liquidity, bank statement import. CHANGELOG, ADRs, CI. | Laravel 13, PostgreSQL, Vue 3, Inertia |
 | **[Root Keeper](https://github.com/sebastian-kostecki/root-keeper)** ([live](https://genealogy.kostecki.dev)) | Family tree where every fact is linked to a source record. | Laravel 13, React 19, TypeScript, Playwright |
 | **[Menu Maker](https://github.com/sebastian-kostecki/menu-maker)** ([live](https://menu.kostecki.dev)) | AI-assisted weekly meal planner with a PDF shopping list. | Laravel, Vue, Inertia |
+| **[Nawigator dnia](https://github.com/sebastian-kostecki/day-navigator)** ([download](https://github.com/sebastian-kostecki/day-navigator/releases/latest)) | Windows tray app for a developer's working day: GitLab and GitHub assignments, a to-do list and a work-time counter. | Tauri 2, Rust, React 19 |
 | **[FocusBlocker](https://github.com/sebastian-kostecki/focus-blocker)** | Windows site blocker: hosts file, Task Scheduler, browser extension. | PowerShell |
 
 ## How I work with AI
